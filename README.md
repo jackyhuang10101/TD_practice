@@ -1,5 +1,4 @@
 # TD_practice
 
-*blob tracking*
+**blob tracking**
 0303_blobtracking.tox
-
